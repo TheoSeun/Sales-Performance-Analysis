@@ -129,9 +129,8 @@ GROUP BY st.category, st.sales_target;
 
 ---
 
-## 📢 Contributors  
-👤 **Your Name**  
-- GitHub: [](https://github.com/YourUsername)  
+## 📢 Contributors   
+- GitHub: [Theoseun](https://github.com/Theoseun)  
 
 🙌 Feel free to contribute or fork this project!  
 
